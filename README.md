@@ -1,4 +1,4 @@
-# Credit Card Transactions Fraud Detection Report
+# Credit Card Transactions Fraud Detection
 
 ## 1. Introduction
 
